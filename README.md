@@ -1,3 +1,3 @@
 # Hello world !
 
- ![visitors Count](https://visitor-badge.glitch.me/Amyn00/Amyn/count.svg)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Amyn00.Amyn)
