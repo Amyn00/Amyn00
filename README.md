@@ -8,4 +8,4 @@
 
 ![visitors](https://komarev.com/ghpvc/?username=Amyn00&color=brightgreen&style=plastic&label=PROFILE+VIEWS)
 
-![visitors](https://img.shields.io/travis/Amyn00/count.svg)
+![visitors](https://amyn00.github.io/Amyn/count.svg)
