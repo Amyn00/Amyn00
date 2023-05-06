@@ -1,5 +1,4 @@
 # Who am i
-
 * I'm a ALX Softwor Engineering Student
 ## Stats
 ### Github Stats
