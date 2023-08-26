@@ -1,4 +1,9 @@
+<img src="https://github.com/Amyn00/Amyn00/blob/main/coding.png?raw=true" height="200" width="1000"/>
+
+
+
 # Who am i
+
 * I'm a ALX Softwor Engineering Student
 ## Stats
 ### Github Stats
